@@ -1,0 +1,6 @@
+{
+  "name": "Bill Cipher Snake",
+  "description": "An exciting and balanced arcade car racing game with responsive controls, traffic, nitro, and car customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
